@@ -1,7 +1,7 @@
 ---
-title: Terms
-date: '2018-06-28T00:00:00+01:00'
-draft: true
+title: Legal notice
+date: "2023-09-13T00:00:00+00:00"
+draft: false
 share: false
 commentable: false
 editable: false
@@ -10,6 +10,23 @@ editable: false
 header:
   caption: ''
   image: ''
+
 ---
 
-Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+## Laboratory
+
+UMR 7238 CNRS "Biologie Computationnelle et Quantitative"
+Sorbonne Université
+Institut de Biologie Paris Seine
+Bâtiment C, 3ème et 4ème étages
+7-9 Quai Saint Bernard 75005 Paris
+
+## Publication director
+
+Laurent Jacob
+
+[Contact informations](mailto:laurent.jacob@cnrs.fr)
+
+## Host
+
+[Github](https://github.com)
