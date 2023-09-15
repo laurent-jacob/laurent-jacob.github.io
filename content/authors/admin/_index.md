@@ -52,9 +52,6 @@ role: Researcher in machine learning and statistics for genomics
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:laurent.jacob@cnrs.fr'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ljacob
@@ -102,5 +99,7 @@ biology. Between 2010 and 2012 I was a postdoctoral fellow at the
 statistics department of UC Berkeley. I joined the CNRS in 2013 and
 worked at the [LBBE](https://lbbe.univ-lyon1.fr/en) lab in [Université
 Lyon 1](https://www.univ-lyon1.fr/en) until 2023.
+
+You can reach me at firstname (dot) lastname (at) cnrs (dot) fr.
 
 {style="text-align: justify;"}

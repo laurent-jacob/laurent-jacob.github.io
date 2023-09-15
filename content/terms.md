@@ -25,7 +25,9 @@ Bâtiment C, 3ème et 4ème étages
 
 Laurent Jacob
 
-[Contact informations](mailto:laurent.jacob@cnrs.fr)
+## Contact informations
+
+firstname (dot) lastname (at) cnrs (dot) fr.
 
 ## Host
 
