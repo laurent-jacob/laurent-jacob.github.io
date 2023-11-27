@@ -17,7 +17,7 @@ starting_date: 2019
 # Role/position/tagline
 role: 2019-2023, with Philippe Veber and Yohann de Castro.
 
-now: Now an MBA fellow at Collège des Ingénieurs
+now: Now a Data Science Manager at Aurobac Therapeutics
 
 external_link: https://fr.linkedin.com/in/antoine-villi%C3%A9
 

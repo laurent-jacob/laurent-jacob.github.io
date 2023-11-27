@@ -17,7 +17,7 @@ starting_date: 2012
 # Role/position/tagline
 role: 2012, with Julien Mairal and Jean-Philippe Vert.
 
-now: Now a researcher at Institut Gustave Roussy
+now: Now a group leader at Institut Gustave Roussy
 
 external_link: https://elsab.github.io/
 
