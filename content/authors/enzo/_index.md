@@ -17,7 +17,7 @@ starting_date: 2023
 # Role/position/tagline
 role: 2023, with Bastien Boussau, Théo Tricou and Damien de Vienne.
 
-now: Now a student at ENS Lyon
+now: Now an MSc student at ENS Lyon
 
 # external_link: https://lucblassel.com/
 
