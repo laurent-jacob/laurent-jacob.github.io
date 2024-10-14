@@ -10,14 +10,14 @@ last_name: Marsot
 superuser: false
 
 user_groups: 
-  - MSc interns
+  - Ph.D. students
 
-starting_date: 2023
+starting_date: 2024
 
 # Role/position/tagline
-role: 2023, with Bastien Boussau, Théo Tricou and Damien de Vienne.
+role: 2024-, with Damien de Vienne and Bastien Boussau.
 
-now: Now an MSc student at ENS Lyon
+# now: Now an MSc student at ENS Lyon
 
 # external_link: https://lucblassel.com/
 

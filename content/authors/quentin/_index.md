@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Antoine Villié
+title: Quentin Chaung
 
 # Full name (for SEO)
-first_name: Antoine
-last_name: Villié
+first_name: Quentin
+last_name: Chaung
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,14 +12,14 @@ superuser: false
 user_groups: 
   - Ph.D. students
 
-starting_date: 2019
+starting_date: 2024
 
 # Role/position/tagline
-role: 2019-2023, with Philippe Veber and Yohann de Castro.
+role: 2024-, with Samuel Alizon.
 
-now: Now a Data Science Manager at Aurobac Therapeutics
+# now: Now a research scientist at bioMérieux
 
-external_link: https://fr.linkedin.com/in/antoine-villi%C3%A9
+# external_link: https://fr.linkedin.com/in/antoine-villi%C3%A9
 
 # Organizations/Affiliations to show in About widget
 # organizations: 
@@ -78,6 +78,6 @@ external_link: https://fr.linkedin.com/in/antoine-villi%C3%A9
 #    link: https://www.linkedin.com/
 
 authors:
-  - antoine
+  - quentin
 
 ---
