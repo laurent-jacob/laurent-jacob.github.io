@@ -19,7 +19,7 @@ role: 2024-, with Hélène Morlon.
 
 # now: Now a research scientist at bioMérieux
 
-external_link: https://fr.linkedin.com/in/antoine-villi%C3%A9
+# external_link: https://fr.linkedin.com/in/antoine-villi%C3%A9
 
 # Organizations/Affiliations to show in About widget
 # organizations: 
