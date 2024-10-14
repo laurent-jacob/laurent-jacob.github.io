@@ -8,7 +8,6 @@ on:
 
 jobs:
   deploy:
-    using: 'node20'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -17,14 +16,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-	  node-version: 20
           submodules: true  # Fetch any Git submodules (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-	  node-version: 20
           hugo-version: 'latest'
           extended: true
 
@@ -38,6 +35,5 @@ jobs:
         # below accordingly.
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
-	  node-version: 20
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
