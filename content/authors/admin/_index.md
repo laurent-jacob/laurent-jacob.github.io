@@ -52,12 +52,12 @@ role: Researcher in machine learning and statistics for genomics
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ljacob
-    label: Follow me on Twitter
-    display:
-      header: true
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/ljacob
+#    label: Follow me on Twitter
+#    display:
+#      header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=fr&user=54bOCmQAAAAJ&view_op=list_works&sortby=pubdate

@@ -21,7 +21,7 @@ marketing:
     description: 'A researcher on machine learning and statistics for genomics'
     twitter: 'ljacob'
   analytics:
-    google_analytics: '.Site.Config.Services.GoogleAnalytics.ID'
+    google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''  
