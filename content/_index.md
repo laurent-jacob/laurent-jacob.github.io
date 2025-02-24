@@ -84,7 +84,9 @@ sections:
       title: Community
       text: |
         I was recently involved in the organization of several scientific events:
-        - [LEGEND 2024](https://legend2024.sciencesconf.org/), a European conference on machine learning for evolutionary genomics.
+        - [LEGEND 2025](https://legend2025.sciencesconf.org/), a conference on machine learning for evolutionary genomics.
+        - I am co-chairing the Sequence Analysis track of the [2025 ISMB conference](https://www.iscb.org/ismbeccb2025/home).
+        - [LEGEND 2024](https://legend2024.sciencesconf.org/), a conference on machine learning for evolutionary genomics.
         - [LEGO](https://gt-lego.cnrs.fr/), a French working group on machine learning for genomics. We organize national meetings to gather researchers interested in this topic.
         - [MLMG 2022](https://mlmg2022.github.io/), an [ECML](https://2022.ecmlpkdd.org/index.html) workshop on machine learning for microbial genomics.
         - I co-chaired the Systems Biology and Networks track of the [2021 ISMB conference](https://www.iscb.org/ismbeccb2021).
