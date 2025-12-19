@@ -1,25 +1,21 @@
 ---
 # Display name
-title: Julie Plantade
+title: Noémie Sauvage
 
 # Full name (for SEO)
-first_name: Julie
-last_name: Plantade
+first_name: Noémie
+last_name: Sauvage
 
 # Is this the primary user of the site?
 superuser: false
 
 user_groups: 
-  - Ph.D. students
+  - MSc interns
 
-starting_date: 2022
+starting_date: 2025
 
 # Role/position/tagline
-role: 2022-, with Xavier Charpentier, Mylène Hugoni and Nicolas Lartillot.
-
-external_link: https://fr.linkedin.com/in/julie-plantade-383516193
-
-# now: Now a research scientist at bioMérieux
+role: 2025, with Luc Blassel.
 
 # Organizations/Affiliations to show in About widget
 # organizations: 
@@ -78,6 +74,6 @@ external_link: https://fr.linkedin.com/in/julie-plantade-383516193
 #    link: https://www.linkedin.com/
 
 authors:
-  - julie
+  - noemie
 
 ---
