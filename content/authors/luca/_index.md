@@ -17,7 +17,8 @@ starting_date: 2021
 # Role/position/tagline
 role: 2021-2024, with Bastien Boussau.
 
-external_link: https://lbbe.univ-lyon1.fr/en/node/78284
+external_link: https://fr.linkedin.com/in/luca-nesterenko-80a0b234a
+#external_link: https://lbbe.univ-lyon1.fr/en/node/78284
 
 # now: Now a research scientist at bioMérieux
 
