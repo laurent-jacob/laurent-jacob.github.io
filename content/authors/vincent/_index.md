@@ -17,7 +17,8 @@ starting_date: 2023
 # Role/position/tagline
 role: 2023-, with Samuel Alizon and Anna Zhukova.
 
-external_link: https://www.linkedin.com/in/vincent-g-36a0799a/
+external_link: https://www.college-de-france.fr/fr/personne/vincent-garot
+#external_link: https://www.linkedin.com/in/vincent-g-36a0799a/
 
 # now: Now a research scientist at bioMérieux
 
