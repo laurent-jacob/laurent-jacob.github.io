@@ -17,6 +17,8 @@ starting_date: 2025
 # Role/position/tagline
 role: 2025, with Luc Blassel.
 
+now: Now an intern at EPFL
+
 # Organizations/Affiliations to show in About widget
 # organizations: 
 #  - name: Now a research scientist at bioMérieux
