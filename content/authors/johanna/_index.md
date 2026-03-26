@@ -17,7 +17,7 @@ starting_date: 2022
 # Role/position/tagline
 role: 2021-2023, with Bastien Boussau.
 
-now: Now an MSc student
+now: Now a research assistant at Universität Freiburg
 
 # external_link: https://lucblassel.com/
 
