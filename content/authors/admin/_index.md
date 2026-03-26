@@ -82,7 +82,7 @@ highlight_name: true
 ---
 
 I am a senior [CNRS](https://www.cnrs.fr/en) researcher located at
-the [LCQB](http://www.lcqb.upmc.fr/) lab of [Sorbonne
+the [CQSB](http://www.lcqb.upmc.fr/) lab of [Sorbonne
 Université](https://www.sorbonne-universite.fr/en) in Paris.
 
 I work on machine learning and statistics to answer questions in
