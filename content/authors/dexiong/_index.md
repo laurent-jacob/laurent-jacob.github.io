@@ -17,7 +17,7 @@ starting_date: 2018
 # Role/position/tagline
 role: 2018-2020, with Julien Mairal.
 
-now: Now a project leader at MPI Munich
+now: Now an Assistant Professor in the AI Thrust at HKUST-GZ
 
 external_link: https://dexiong.me/
 
