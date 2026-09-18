@@ -17,6 +17,9 @@ starting_date: 2026
 # Role/position/tagline
 role: 2026, with Luc Blassel.
 
+now: Now a PhD student at Université Paris Saclay
+
+
 # Organizations/Affiliations to show in About widget
 # organizations: 
 #  - name: Now a research scientist at bioMérieux
